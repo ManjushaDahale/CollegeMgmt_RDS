@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'manjushad.mysql.database.azure.com',
-	'username' => 'manjushatraining',
-	'password' => 'Verity@123',
+	'hostname' => 'cmtsdb.c3kg6eqyukgx.ap-south-1.rds.amazonaws.com',
+	'username' => 'admin',
+	'password' => 'admin123',
 	'database' => 'college_mgmt',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
